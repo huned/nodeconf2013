@@ -1,0 +1,13 @@
+[11:05:52] huned@omg:dtrace $ ssh student@10.88.87.100 -p 24222
+The authenticity of host '[10.88.87.100]:24222 ([10.88.87.100]:24222)' can't be established.
+RSA key fingerprint is 74:f1:c9:7e:50:cb:70:2a:21:4c:28:55:5f:ec:fa:6d.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added '[10.88.87.100]:24222' (RSA) to the list of known hosts.
+Password: 
+Last login: Thu Jun 27 18:32:24 2013 from 10.88.87.129
+   __        .                   .
+ _|  |_      | .-. .  . .-. :--. |-
+|_    _|     ;|   ||  |(.-' |  | |
+  |__|   `--'  `-' `;-| `-' '  ' `-'
+                   /  ; SmartMachine (nodejs 13.1.0)
+                   `-'  http://wiki.joyent.com/jpc2/SmartMachine+Node.JS

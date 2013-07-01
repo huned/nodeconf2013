@@ -1,0 +1,20 @@
+1. copy streams-workshop to your computer somewhere
+
+- now we have to put the `stream-adventure` command in your terminal path
+
+2. in a terminal do:
+
+cd streams-workshop/node_modules/stream-adventure
+npm link .
+
+- if you get an error try:
+
+sudo npm link .
+
+- if that still doesnt work you can just type
+
+./stream-adventure/streams-workshop/node_modules/stream-adventure/bin/cmd.js
+
+- now you can cd back into streams-workshop (cd ../../) and then finally
+
+stream-adventure
